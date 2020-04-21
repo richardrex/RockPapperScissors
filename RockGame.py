@@ -45,7 +45,7 @@ Press 3 for Quit.
 def play_quit():
 
     sys.exit("""Thank you for Playing!
-Hope u enjoed it 
+Hope u enjoyed it 
 Bye!""")
 
 def play_game():
