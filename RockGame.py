@@ -6,7 +6,8 @@ import time
 name = input("Please, write your name: ")
 
 def play_information():
-    print("/nHello", + name + """this is my first Py project
+    print("""
+           Hello, this is my first Py project
              Rock Papper Scissors
                  r for rock
                  p for papper
