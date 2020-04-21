@@ -11,7 +11,7 @@ def play_information():
              Rock Papper Scissors
                  r for rock
                  p for papper
-                 s for scossors 
+                 s for scissors 
 -----------------Have fun!------------------
 """)
     time.sleep(3)
